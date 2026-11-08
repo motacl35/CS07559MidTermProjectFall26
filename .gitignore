@@ -1,0 +1,6 @@
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+results/
+*.pth
+.DS_Store
